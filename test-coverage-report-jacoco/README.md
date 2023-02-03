@@ -6,7 +6,7 @@ A sample multi modular maven project demonstrating how to met coverage for unit,
 
 * module1: Java module containing classes along with unit test cases.
 * module2: Java module containing classes along with unit test cases.
-* test-aggregate: Module to aggregate the coverage reports from all the modules.
+* test-aggregate: Module to aggregate the coverage reports from all the modules. dfdddd
 
 
 ## Dependencies
